@@ -1,9 +1,11 @@
-# Six is Enough: Ultra-Fast Diffusion Tensor Tractography from Minimal Gradient Directions
+# Ultra-Fast Diffusion Tensor Tract Segmentation Using Minimal Gradient Directions
 
 This repository is associated with the manuscript:
 
-"Six is Enough: Ultra-Fast Diffusion Tensor Tractography from Minimal Gradient Directions"
+"Ultra-Fast Diffusion Tensor Tract Segmentation Using Minimal Number of Gradient Directions"
 
-submitted to IEEE Transactions on Medical Imaging (TMI).
+submitted to *Computerized Medical Imaging and Graphics (CMIG)*.
 
-All materials associated with this work, including source code and the ClinMARDI-20 dataset, will be released upon acceptance and publication of the manuscript.
+The manuscript presents a learning-based framework for white matter tract segmentation from diffusion MRI acquisitions using as few as six gradient directions.
+
+Source code and the ClinMARDI-20 dataset will be made publicly available upon acceptance and publication of the manuscript.
