@@ -1,8 +1,8 @@
-# Ultra-Fast Diffusion Tensor Tract Segmentation Using Minimal Gradient Directions
+# Ultra-Fast Diffusion Tensor Tract Segmentation with a Minimal Number of Gradient Directions
 
 This repository is associated with the manuscript:
 
-"Ultra-Fast Diffusion Tensor Tract Segmentation Using Minimal Number of Gradient Directions"
+"Ultra-Fast Diffusion Tensor Tract Segmentation with a Minimal Number of Gradient Directions"
 
 submitted to *Computerized Medical Imaging and Graphics (CMIG)*.
 
