@@ -1,11 +1,13 @@
-# Ultra-Fast Diffusion Tensor Tract Segmentation with a Minimal Number of Gradient Directions
+# Tract Segmentation from Ultra-Fast DTI with the Minimal Number of Gradient Directions
 
 This repository is associated with the manuscript:
 
-"Ultra-Fast Diffusion Tensor Tract Segmentation with a Minimal Number of Gradient Directions"
+**"Tract Segmentation from Ultra-Fast DTI with the Minimal Number of Gradient Directions"**
 
-submitted to *Computerized Medical Imaging and Graphics (CMIG)*.
+submitted to *Medical Physics*.
 
-The manuscript presents a learning-based framework for white matter tract segmentation from diffusion MRI acquisitions using as few as six gradient directions.
+The manuscript presents a two-stage deep learning framework combining diffusion tensor image denoising and white matter tract segmentation using as few as six non-collinear diffusion gradient directions.
 
-Source code and the ClinMARDI-20 dataset will be made publicly available upon acceptance and publication of the manuscript.
+The framework is evaluated on the HCP, BrainPTM, and ClinMARDI-20 datasets, including clinical validation using independently acquired six- and 64-direction diffusion MRI scans.
+
+Source code and the ClinMARDI-20 dataset are planned to be made publicly available following acceptance and publication of the manuscript, subject to the necessary data-sharing approvals.
