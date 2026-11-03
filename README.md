@@ -4,10 +4,10 @@ This repository is associated with the manuscript:
 
 **"Tract Segmentation from Ultra-Fast DTI with the Minimal Number of Gradient Directions"**
 
-submitted to *Medical Physics*.
+prepared for submission to *Biomedical Signal Processing and Control (BSPC)*.
 
-The manuscript presents a two-stage deep learning framework combining diffusion tensor image denoising and white matter tract segmentation using as few as six non-collinear diffusion gradient directions.
+The manuscript presents a two-stage deep learning framework combining direction-encoded color (DEC) map denoising and automatic white matter tract segmentation using as few as six non-collinear diffusion gradient directions.
 
-The framework is evaluated on the HCP, BrainPTM, and ClinMARDI-20 datasets, including clinical validation using independently acquired six- and 64-direction diffusion MRI scans.
+The framework is evaluated on the HCP, BrainPTM, and ClinMARDI-20 datasets, including validation using independently acquired 6- and 64-gradient-direction diffusion MRI scans under clinical acquisition conditions.
 
-Source code and the ClinMARDI-20 dataset are planned to be made publicly available following acceptance and publication of the manuscript, subject to the necessary data-sharing approvals.
+The source code will be made publicly available in this repository, and the ClinMARDI-20 dataset is planned for public release following acceptance of the manuscript.
